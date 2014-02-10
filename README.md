@@ -1,9 +1,9 @@
 TheLUG
 ======
 Unofficial LUG repository for the Unofficial University of Utah LUG group.  
-    - The purpose of this group is to encourage the expansion of knowledge on open source tools especially those of the   GNU/Linux system and projects licensed under the GPL.  
-    - The purpose of this repository is to aid in collaboration between members of the LUG.  
-    - For more information please refer to our constitution.  
+- The purpose of this group is to encourage the expansion of knowledge on open source tools especially those of the   GNU/Linux system and projects licensed under the GPL.  
+- The purpose of this repository is to aid in collaboration between members of the LUG.  
+- For more information please refer to our constitution.  
 
 
 Disclaimer
