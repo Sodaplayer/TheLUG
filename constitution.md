@@ -2,10 +2,11 @@
 
 ##Article I – Name
 State the reason for the formation of the club and the club’s objectives
-Article II – Purpose
+
+##Article II – Purpose
 State the reason for the formation of the club and the club’s objectives.
 
-##Article II – Membership
+##Article III – Membership
 State which people are qualified for membership (assuring that no discrimination will take place).
 State what a member must do to be recognized as a full member.
 State what rights and privileges a full member has.
