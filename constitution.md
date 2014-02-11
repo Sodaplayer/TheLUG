@@ -5,7 +5,13 @@ The USLUG or Utah Student LUG is a Linux Users Group.
 More information on LUG's can be found here: <https://en.wikipedia.org/wiki/Linux_user_group>  
 
 ##Article II – Purpose
-State the reason for the formation of the club and the club’s objectives.
+This Linux User's group will be used to provide an environment to facilate learning of the GNU/Linux system and all free/open source software.
+
+This includes but is not limited to the following:
+
++ Promote the use of open source software while respeting people needs
++ Contributing to the open source community
++ Assisting in the academic community
 
 ##Article III – Membership
 State which people are qualified for membership (assuring that no discrimination will take place).
