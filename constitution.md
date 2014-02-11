@@ -22,7 +22,6 @@ To become a member you must meet the following qualifications:
 
 ###Full-Voting Member
 + Attend half of the bi-monthly meetings
-+ Pay membership dues
 
 USLUG will not descrimate against any student of the university. This would be against what the group stands for.
 
