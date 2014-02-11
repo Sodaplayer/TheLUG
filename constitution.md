@@ -10,13 +10,21 @@ This Linux User's group will be used to provide an environment to facilate learn
 This includes but is not limited to the following:
 
 + Promote the use of open source software while respeting people needs
++ Promote freedom both inside and outside of software development.
 + Contributing to the open source community
 + Assisting in the academic community
 
 ##Article III – Membership
-State which people are qualified for membership (assuring that no discrimination will take place).
-State what a member must do to be recognized as a full member.
-State what rights and privileges a full member has.
+To become a member you must meet the following qualifications:
+
+###Member Qualifications
++ Must be a student at the University of Utah
+
+###Full-Voting Member
++ Attend half of the bi-monthly meetings
++ Pay membership dues
+
+USLUG will not descrimate against any student of the university. This would be against what the group stands for.
 
 ##Article IV – Meeting
 State how many meetings of the membership are to be held during the school year and when they are to be held.
