@@ -1,7 +1,8 @@
-#Consitution of the LUG that is still to be named
+#USLUG Constitution
 
 ##Article I – Name
-State the reason for the formation of the club and the club’s objectives
+The USLUG or Utah Student LUG is a Linux Users Group.  
+More information on LUG's can be found here: <https://en.wikipedia.org/wiki/Linux_user_group>  
 
 ##Article II – Purpose
 State the reason for the formation of the club and the club’s objectives.
