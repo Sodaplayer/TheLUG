@@ -1,7 +1,7 @@
 #USLUG Constitution
 
 ##Article I – Name
-The USLUG or Utah Student LUG is a Linux Users Group.  
+The USLUG or USLUG Student LUG is a Linux Users Group.  
 More information on LUG's can be found here: <https://en.wikipedia.org/wiki/Linux_user_group>  
 
 ##Article II – Purpose
