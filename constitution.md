@@ -9,7 +9,7 @@ This Linux User's group will be used to provide an environment to facilate learn
 
 This includes but is not limited to the following:
 
-+ Promote the use of open source software while respeting people needs
++ Promote the use of open source software while respecting people needs
 + Promote freedom both inside and outside of software development.
 + Contributing to the open source community
 + Assisting in the academic community
@@ -27,8 +27,9 @@ To become a member you must meet the following qualifications:
 USLUG will not descrimate against any student of the university. This would be against what the group stands for.
 
 ##Article IV – Meeting
-State how many meetings of the membership are to be held during the school year and when they are to be held.
-State procedures for calling regular and special meetings.
+Regular meetings will be held bi-monthly during the normal school year and monthy during the summer. The schedule of these meetings will be decided by majority vote at the beggining of each semester.
+
+To call a special meeting 2 other members must sign off on the meeting.
 
 ##Article V – Executive Board
 State what officers will make up the club’s Executive Board and what each officer’sduties will be.
