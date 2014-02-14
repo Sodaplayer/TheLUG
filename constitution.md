@@ -31,8 +31,15 @@ Regular meetings will be held bi-monthly during the normal school year and month
 To call a special meeting 2 other members must sign off on the meeting.
 
 ##Article V – Executive Board
-State what officers will make up the club’s Executive Board and what each officer’sduties will be.
-State procedures for handling vacancies within the Executive Board.
+###President
++ The duties of the President will be to preside over the meetings and facilitate in organizing the group.
++ If there is a vacancy mid term the Vice President will assume the role if there is no Vice President elections will be held.
+###Vice President
++ The Vice President will work with the president in a equal partnership in organizing the group and will preside over meetings in the presidents abscence.
++ If there is a vacancy in the Vice President position elections will be held for that position. 
+###Treasurer
++ The Treasurers duties will include keeping track of the groups finances.
++ If there is a vacancy in the Treasurer position elections will be held.
 
 ##Article VI – Elections
 State which officers will be selected by the membership, how long the terms of these officers will last, and how many times a person may hold the same office.
