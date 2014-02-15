@@ -50,22 +50,22 @@ State how nominees will present their qualification and how and when elections w
 State procedures in case a runoff is necessary
 
 ##Article VII – Funds
-State procedure for the allocation of club funds (revenues and expenses).
+The allocation of funds will be based on the majority vote of the group.
 
 ##Article VIII – Committees
-State what standing and/or ad-hoc committees will exist in the club and the function and composition of each.
+As of the creation of this group there will be no commitiees.
 
 ##Article IX – Affiliations
-State any affiliations with local, state, regional, or national organizations.
+Currently there are no affiliations with any local, state, or national groups.  
+There are many LUG's but there is no central authority or affiliation between groups.
 
 ##Article – Advisor
-State procedures for the qualification and selection of an adisor and the functions and duties of said person.
+Advisors will participate as they see fit and provide guidance for the group.
 
 ##Article XI – Ratification
-State how the Constitution will be ratified by the membership
+The constitution will be ratified by the founding members. For ratification there must be unanimous agreement.
 
 ##Article XII – Amendments
-State how an amendment will be presented, to whom it will be presented, and how it will be ratified
+Ammendments will be presented to the membership by any full member and will be voted on by the membership. For this there must be a supermajority. In this case a supermajority means 75 percent or greater must be in favor of the ammendment.
+Only full members can vote.
 
-##Article XIII – Bylaws
-State procedures for the inclusion of any rules and regulations specific to the club or organization
