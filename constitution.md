@@ -34,9 +34,11 @@ To call a special meeting 2 other members must sign off on the meeting.
 ###President
 + The duties of the President will be to preside over the meetings and facilitate in organizing the group.
 + If there is a vacancy mid term the Vice President will assume the role if there is no Vice President elections will be held.  
+
 ###Vice President
 + The Vice President will work with the president in a equal partnership in organizing the group and will preside over meetings in the presidents abscence.
-+ If there is a vacancy in the Vice President position elections will be held for that position.  
++ If there is a vacancy in the Vice President position elections will be held for that position.
+
 ###Treasurer
 + The Treasurers duties will include keeping track of the groups finances.
 + If there is a vacancy in the Treasurer position elections will be held.
