@@ -44,10 +44,11 @@ To call a special meeting 2 other members must sign off on the meeting.
 + If there is a vacancy in the Treasurer position elections will be held.
 
 ##Article VI – Elections
-State which officers will be selected by the membership, how long the terms of these officers will last, and how many times a person may hold the same office.
-State the nominating procedures and when they will take place.
-State how nominees will present their qualification and how and when elections will be held.
-State procedures in case a runoff is necessary
++ Elections will be held once every other semester.
++ There will be no nominations. Any full member can run for a position.
++ The full membership will vote on the positions and who ever obtains the most votes will win.
++ In the case of the Tie the two members will have 1 week to sway the votes and another vote will take place.
++ There will be no term limits on any position.
 
 ##Article VII – Funds
 The allocation of funds will be based on the majority vote of the group.
