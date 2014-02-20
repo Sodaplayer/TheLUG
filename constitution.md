@@ -9,10 +9,11 @@ This Linux User's group will be used to provide an environment to facilate learn
 
 This includes but is not limited to the following:
 
-+ Promote the use of open source software.
-+ Promote freedom both inside and outside of software development.
++ Promote the use of free/open source software.
++ Promote freedom both inside and outside of software development
 + Contributing to the open source community
 + Assisting in the academic community
++ Supporting users in the use of free/open source software
 
 ##Article III – Membership
 To become a member you must meet the following qualifications:
