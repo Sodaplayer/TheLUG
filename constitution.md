@@ -1,21 +1,18 @@
 #USLUG Constitution
 
-##Article I – Name
-The USLUG or USLUG Student LUG is a Linux Users Group.  
-More information on LUG's can be found here: <https://en.wikipedia.org/wiki/Linux_user_group>  
-
-##Article II – Purpose
-This Linux User's group will be used to provide an environment to facilate learning of the GNU/Linux system and all free/open source software.
+##Article I – Name and Purpose
+The USLUG or USLUG Student Linux User Group is a Linux Users Group (LUG).  
+Our purpose as a Linux User's Group is to provide an environment to facilitate learning of the GNU/Linux system and all free/open source software.
 
 This includes but is not limited to the following:
 
-+ Promote the use of free/open source software
-+ Promote freedom both inside and outside of software development
++ Supporting users in the use of free/open source software
++ Promoting the use of free/open source software
++ Promoting freedom both inside and outside of software development
 + Contributing to the open source community
 + Assisting in the academic community
-+ Supporting users in the use of free/open source software
 
-##Article III – Membership
+##Article II – Membership
 To become a member you must meet the following qualifications:
 
 ###Member Qualifications
@@ -24,14 +21,14 @@ To become a member you must meet the following qualifications:
 ###Full-Voting Member
 + Attend half of the bi-monthly meetings
 
-USLUG will not descrimate against any student of the university. This would be against what the group stands for.
+USLUG will not discriminate against any student of the university. This would be against what the group stands for.
 
-##Article IV – Meeting
-Regular meetings will be held bi-monthly during the normal school year and monthy during the summer. The schedule of these meetings will be decided by majority vote at the beggining of each semester.
+##Article III – Meeting
+Regular meetings will be held bi-monthly during the normal school year and monthly during the summer. The schedule of these meetings will be decided by majority vote at the beggining of each semester.
 
 To call a special meeting 2 other members must sign off on the meeting.
 
-##Article V – Executive Board
+##Article IV – Executive Board
 ###President
 + The duties of the President will be to preside over the meetings and facilitate in organizing the group.
 + If there is a vacancy mid term the Vice President will assume the role if there is no Vice President elections will be held.  
@@ -44,30 +41,27 @@ To call a special meeting 2 other members must sign off on the meeting.
 + The Treasurers duties will include keeping track of the groups finances.
 + If there is a vacancy in the Treasurer position elections will be held.
 
-##Article VI – Elections
+##Article V – Elections
 + Elections will be held once every other semester.
 + There will be no nominations. Any full member can run for a position.
 + The full membership will vote on the positions and who ever obtains the most votes will win.
 + In the case of a tie the two members will have 1 week to sway the votes and another vote will take place.
 + There will be no term limits on any position.
 
-##Article VII – Funds
+##Article VI – Funds
 The allocation of funds will be based on the majority vote of the group.
 
-##Article VIII – Committees
-As of the creation of this group there will be no commitiees.
-
-##Article IX – Affiliations
+##Article VII – Affiliations
 Currently there are no affiliations with any local, state, or national groups.  
-There are many LUG's but there is no central authority or affiliation between groups.
+There are many LUGs but there is no central authority or affiliation between groups.
 
-##Article – Advisor
+##Article VIII – Advisor
 Advisors will participate as they see fit and provide guidance for the group.
 
-##Article XI – Ratification
+##Article IX – Ratification
 The constitution will be ratified by the founding members. For ratification there must be unanimous agreement.
 
-##Article XII – Amendments
-Ammendments will be presented to the membership by any full member and will be voted on by the membership. For this there must be a supermajority. In this case a supermajority means 75 percent or greater must be in favor of the ammendment.
+##Article X – Amendments
+Amendments will be presented to the membership by any full member and will be voted on by the membership. For this there must be a supermajority. In this case a supermajority means 75 percent or greater must be in favor of the ammendment.
 Only full members can vote.
 
