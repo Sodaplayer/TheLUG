@@ -9,7 +9,7 @@ This Linux User's group will be used to provide an environment to facilate learn
 
 This includes but is not limited to the following:
 
-+ Promote the use of open source software while respecting people needs
++ Promote the use of open source software.
 + Promote freedom both inside and outside of software development.
 + Contributing to the open source community
 + Assisting in the academic community
