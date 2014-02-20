@@ -9,7 +9,7 @@ This Linux User's group will be used to provide an environment to facilate learn
 
 This includes but is not limited to the following:
 
-+ Promote the use of free/open source software.
++ Promote the use of free/open source software
 + Promote freedom both inside and outside of software development
 + Contributing to the open source community
 + Assisting in the academic community
@@ -48,7 +48,7 @@ To call a special meeting 2 other members must sign off on the meeting.
 + Elections will be held once every other semester.
 + There will be no nominations. Any full member can run for a position.
 + The full membership will vote on the positions and who ever obtains the most votes will win.
-+ In the case of the Tie the two members will have 1 week to sway the votes and another vote will take place.
++ In the case of a tie the two members will have 1 week to sway the votes and another vote will take place.
 + There will be no term limits on any position.
 
 ##Article VII – Funds
